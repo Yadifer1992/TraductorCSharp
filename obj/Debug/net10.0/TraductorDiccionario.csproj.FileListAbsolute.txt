@@ -1,0 +1,14 @@
+C:\Users\USUARIO\TraductorDiccionario\bin\Debug\net10.0\TraductorDiccionario.exe
+C:\Users\USUARIO\TraductorDiccionario\bin\Debug\net10.0\TraductorDiccionario.deps.json
+C:\Users\USUARIO\TraductorDiccionario\bin\Debug\net10.0\TraductorDiccionario.runtimeconfig.json
+C:\Users\USUARIO\TraductorDiccionario\bin\Debug\net10.0\TraductorDiccionario.dll
+C:\Users\USUARIO\TraductorDiccionario\bin\Debug\net10.0\TraductorDiccionario.pdb
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.AssemblyInfoInputs.cache
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.AssemblyInfo.cs
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.dll
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\refint\TraductorDiccionario.dll
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.pdb
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\TraductorDiccionario.genruntimeconfig.cache
+C:\Users\USUARIO\TraductorDiccionario\obj\Debug\net10.0\ref\TraductorDiccionario.dll
