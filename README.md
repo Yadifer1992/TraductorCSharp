@@ -24,6 +24,3 @@ Para ejecutar el programa:
 
 dotnet run
 
-## 👩‍🎓 Autora
-
-Yadira Ureña
